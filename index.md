@@ -1,17 +1,4 @@
-## Welcome to Pranav's Github Page. 
-
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Pranav's First CS193 Homework
+## Pranav's First CS193 Homework.
 
 - I love that CS 193 is a **student-run** class.
 - I like the option of attending PSO's for extra help.
@@ -19,14 +6,14 @@ Syntax highlighted code block
 - I like learning to use tools that I will use in the future. 
 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
+
+
+
 
 ### Support or Contact
 

@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Pranav's Github Page. 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -12,18 +12,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Pranav's First CS193 Homework
-## Header 2
-### Header 3
 
-- I love that CS 193 is a student-run class.
+- I love that CS 193 is a **student-run** class.
 - I like the option of attending PSO's for extra help.
 - I like the classmates I have met through the CS 193 Class.
 - I like learning to use tools that I will use in the future. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
